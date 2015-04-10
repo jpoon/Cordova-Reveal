@@ -1,4 +1,4 @@
-# Write-Once, Ship Everywhere! Cross-Platform Development with Cordova and Visual Studio
+## Write-Once, Ship Everywhere! Cross-Platform Development with Cordova and Visual Studio
 
 Talk prepared for [Droidcon Dubai 2015](http://www.droidcon.ae/). Presented in combination with the [native app](https://github.com/jpoon/Cordova-Reveal-App)
 
